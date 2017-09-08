@@ -82,3 +82,6 @@ lib/string.c
 lib/wait.c
 lib/write.c
 mm/memory.c
+Makefile
+README.md
+System.map
