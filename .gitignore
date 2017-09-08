@@ -2,4 +2,5 @@ Thumbs.db
 *.log
 *.bak
 .DS_Store
-
+# 忽略所有.o和 .a文件.
+*.[oa]
