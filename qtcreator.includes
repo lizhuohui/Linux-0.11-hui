@@ -4,3 +4,14 @@ include/linux
 include/sys
 kernel/blk_drv
 .
+kernel/math
+kernel
+tools/bochs
+kernel/chr_drv
+mm
+fs
+init
+tools/bochs/bochsrc
+boot
+lib
+tools
